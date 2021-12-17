@@ -1,6 +1,7 @@
 # project-tutorial
 
-# 010272
+# entering an input: name is hatta
+# entering an input: age is 18
 
 ## Build Setup
 
