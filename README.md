@@ -2,7 +2,7 @@
 
 # entering an input: name is hatta
 # entering an input: age is 18
-# entering an input: address is bandar-utama
+# entering an input: address is one-utama
 
 
 ## Build Setup
